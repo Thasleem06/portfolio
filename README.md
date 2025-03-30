@@ -1,5 +1,4 @@
 
-![Logo](https://ibb.co/GfzTf0F8)
 
 
 ## Personal portfolio website
